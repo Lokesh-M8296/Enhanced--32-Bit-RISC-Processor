@@ -1,5 +1,5 @@
-# 32-Bit-RISC-Processor-
-Design and Implementation of 32-Bit MIPS RISC Processor with Flexible 5-Stage Pipelining and Dynamic Thermal Control
+# Enhanced--32-Bit-RISC-Processor
+## Design and Implementation of 32-Bit MIPS RISC Processor with Flexible 5-Stage Pipelining and Dynamic Thermal Control
 The project involved the design and implementation of a 32-bit RISC-V processor with a 5-stage flexible pipeline using SystemVerilog. The primary objective was to develop a processor based on the MIPS instruction set architecture (ISA) with stages including instruction fetch, instruction decode, execute, memory access, and write back. The design also incorporated dynamic thermal management techniques for improved thermal stability.
 
 RISC-V processors are widely used in various computational tasks, particularly in scientific computing domains like digital signal processing (DSP) and digital image processing (DIP). The reduced instruction set architecture allows for pipelined execution of instructions, resulting in enhanced performance and throughput.
