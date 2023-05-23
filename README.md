@@ -8,7 +8,7 @@ The design was implemented using SystemVerilog, a hardware description language 
 
 The processor design was based on a synchronous technique, known for its speed and reliability in the industry. It utilized dynamic frequency scaling for thermal stability and operated at a high clock frequency to achieve higher speeds.
 
-The design was successfully simulated with a UVM testbench, providing a total simulation time of 3 microseconds. The resulting total cell area was measured to be 1353.7984 micrometers.
+The design was successfully simulated with a UVM testbench, providing a total simulation time of *3* microseconds. The resulting total cell area was measured to be *1353.7984 micrometers*.
 
 For future work, the design could be expanded to support a greater number of instructions and improved frequency scaling for better performance. It could also be extended to a 64-bit RISC architecture.
 
